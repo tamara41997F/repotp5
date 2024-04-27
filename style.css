@@ -1,0 +1,56 @@
+table td {
+    width: 10em;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.dias1 {
+    background-color: aquamarine;
+}
+
+.dias {
+    font-size: 30px;
+}
+
+.dias2 {
+    background-color: yellowgreen;
+}
+
+.dias3 {
+    background-color: lightcoral;
+}
+
+.dias4 {
+    background-color: yellow;
+}
+
+.dias5 {
+    background-color: lightsalmon;
+}
+
+body {
+    font-family: system-ui,sans-serif;
+    background-color: #e0e0e0;
+}
+
+header {
+    background-color: lightblue;
+    margin: 50px;
+    width: 100%;
+    height: 70%;
+}
+
+footer {
+    background-color: aquamarine;
+    width: 100%;
+    height: 50%;
+}
+
+.formulario {
+    border: 10px solid lightskyblue;
+    border-radius: 50px;
+    box-shadow: 0px 4px 6px blue;
+}
